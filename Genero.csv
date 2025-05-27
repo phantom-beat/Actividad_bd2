@@ -1,0 +1,16 @@
+codigo,nombre,descripcion
+G1,Acción,Incluye secuencias de alta energía con acrobacias, persecuciones y combates.
+G2,Drama,Se centra en conflictos emocionales y relacionales con desarrollo realista de personajes.
+G3,Terror,Diseñado para evocar miedo y suspenso mediante elementos sobrenaturales o psicológicos.
+G4,Comedia,Enfatiza el humor y situaciones ligeras para entretener al público.
+G5,Romance,Se enfoca en relaciones románticas y historias de amor con profundidad emocional.
+G6,Ciencia Ficción,Explora conceptos imaginativos que involucran tecnología avanzada o exploración espacial.
+G7,Fantasía,Incluye elementos mágicos o míticos en un mundo ficticio o escenario.
+G8,Aventura,Sigue a personajes en emocionantes viajes llenos de exploración y descubrimiento.
+G9,Thriller,Construye tensión y emoción con tramas llenas de suspenso y giros inesperados.
+G10,Documental,Presenta contenido factual sobre eventos, personas o temas del mundo real.
+G11,Animación,Utiliza personajes y visuales animados para contar historias para diversas audiencias.
+G12,Crimen,Se centra en actividades criminales, investigaciones o narrativas de aplicación de la ley.
+G13,Histórico,Representa eventos o figuras del pasado con un enfoque en la precisión histórica.
+G14,Misterio,Implica resolver acertijos o descubrir secretos con una trama enigmática.
+G15,Familiar,Dirigido a todas las edades con contenido saludable y entretenido para familias.

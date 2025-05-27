@@ -1,0 +1,16 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+U1,Juan Perez,25,M,juan.perez@email.com,1999-05-15
+U2,Maria Gomez,30,F,maria.gomez@email.com,1994-08-22
+U3,Carlos Lopez,28,M,carlos.lopez@email.com,1996-03-10
+U4,Laura Martinez,22,F,laura.martinez@email.com,2002-11-30
+U5,Andres Rodriguez,35,M,andres.rodriguez@email.com,1989-01-12
+U6,Sofia Hernandez,27,F,sofia.hernandez@email.com,1997-07-19
+U7,Diego Morales,29,M,diego.morales@email.com,1995-09-05
+U8,Ana Torres,31,F,ana.torres@email.com,1993-04-25
+U9,Jorge Ramirez,24,M,jorge.ramirez@email.com,2000-06-14
+U10,Clara Diaz,26,F,clara.diaz@email.com,1998-12-03
+U11,Pedro Castro,33,M,pedro.castro@email.com,1991-02-28
+U12,Lucia Vargas,23,F,lucia.vargas@email.com,2001-10-09
+U13,Miguel Angel,28,M,miguel.angel@email.com,1996-05-20
+U14,Valeria Ortiz,29,F,valeria.ortiz@email.com,1995-03-17
+U15,Felipe Suarez,32,M,felipe.suarez@email.com,1992-08-08
