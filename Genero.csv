@@ -1,16 +1,16 @@
-codigo,nombre,descripcion
-G1,Acción,Incluye secuencias de alta energía con acrobacias, persecuciones y combates.
-G2,Drama,Se centra en conflictos emocionales y relacionales con desarrollo realista de personajes.
-G3,Terror,Diseñado para evocar miedo y suspenso mediante elementos sobrenaturales o psicológicos.
-G4,Comedia,Enfatiza el humor y situaciones ligeras para entretener al público.
-G5,Romance,Se enfoca en relaciones románticas y historias de amor con profundidad emocional.
-G6,Ciencia Ficción,Explora conceptos imaginativos que involucran tecnología avanzada o exploración espacial.
-G7,Fantasía,Incluye elementos mágicos o míticos en un mundo ficticio o escenario.
-G8,Aventura,Sigue a personajes en emocionantes viajes llenos de exploración y descubrimiento.
-G9,Thriller,Construye tensión y emoción con tramas llenas de suspenso y giros inesperados.
-G10,Documental,Presenta contenido factual sobre eventos, personas o temas del mundo real.
-G11,Animación,Utiliza personajes y visuales animados para contar historias para diversas audiencias.
-G12,Crimen,Se centra en actividades criminales, investigaciones o narrativas de aplicación de la ley.
-G13,Histórico,Representa eventos o figuras del pasado con un enfoque en la precisión histórica.
-G14,Misterio,Implica resolver acertijos o descubrir secretos con una trama enigmática.
-G15,Familiar,Dirigido a todas las edades con contenido saludable y entretenido para familias.
+código,nombre,descripción
+G1,Acción,Historias llenas de adrenalina con escenas de combate y persecuciones
+G2,Drama,Narrativas emocionales que exploran conflictos humanos profundos
+G3,Comedia,Contenidos diseñados para provocar risas y entretenimiento ligero
+G4,Terror,Historias que buscan generar miedo o suspense
+G5,Ciencia Ficción,Exploración de mundos futuristas y tecnología avanzada
+G6,Romance,Historias centradas en relaciones amorosas y emocionales
+G7,Aventura,Relatos de exploración y desafíos en entornos exóticos
+G8,Fantasía,Mundos imaginarios con magia y criaturas míticas
+G9,Documental,Contenidos basados en hechos reales y análisis informativo
+G10,Animación,Historias animadas para todas las edades
+G11,Suspenso,Tramas llenas de intriga y tensión narrativa
+G12,Crimen,Historias sobre delitos, investigaciones y justicia
+G13,Histórico,Relatos basados en eventos o épocas históricas
+G14,Musical,Contenidos con música y actuaciones artísticas destacadas
+G15,Deportes,Historias centradas en competiciones deportivas y superación
