@@ -1,0 +1,21 @@
+contenidoId,nombre,tipo,descripcion,duracion,añoEstreno,calificacionPromedio
+C1,Inception,Pelicula,A thief who steals corporate secrets through dream infiltration is given the task of planting an idea into the mind of a CEO.,148,2010,8.8
+C2,Stranger Things,Serie,A group of kids in the 1980s uncover supernatural mysteries involving secret experiments and a strange girl.,50,2016,8.7
+C3,Stranger Things S1E1,Episodio,The disappearance of a young boy leads to the discovery of a mysterious girl and a sinister government experiment.,47,2016,8.5
+C4,The Matrix,Pelicula,A hacker discovers a simulated reality and joins a rebellion against the machines controlling it.,136,1999,8.7
+C5,Breaking Bad,Serie,A chemistry teacher turned drug-lord builds an empire while facing moral dilemmas.,45,2008,9.5
+C6,Breaking Bad S1E1,Episodio,"Walter White, a high school teacher, teams up with a former student to cook and sell methamphetamine.",58,2008,9.1
+C7,The Witcher,Serie,"Geralt of Rivia, a monster hunter, navigates a world where people often prove more wicked than beasts.",60,2019,8.2
+C8,The Witcher S1E1,Episodio,Geralt takes on his first monster hunt while uncovering a deeper conspiracy.,65,2019,8.0
+C9,Forrest Gump,Pelicula,The life story of a man with a low IQ who inadvertently influences major historical events.,142,1994,8.8
+C10,Game of Thrones,Serie,Noble families fight for control of the Iron Throne while an ancient threat emerges.,55,2011,9.3
+C11,Game of Thrones S1E1,Episodio,The Stark family faces political intrigue as winter approaches.,62,2011,9.0
+C12,The Shawshank Redemption,Pelicula,"Two imprisoned men bond over the years, finding solace and eventual redemption.",142,1994,9.3
+C13,Friends,Serie,Follows the lives of six friends living in New York City as they navigate love and careers.,22,1994,8.9
+C14,Friends S1E1,Episodio,Rachel runs away from her wedding and meets the gang at Central Perk.,23,1994,8.4
+C15,The Dark Knight,Pelicula,"Batman faces off against the Joker, a criminal mastermind wreaking havoc in Gotham.",152,2008,9.0
+C16,Black Mirror,Serie,An anthology series exploring the dark side of technology and human nature.,60,2011,8.8
+C17,Black Mirror S3E1,Episodio,A woman becomes obsessed with her social media rating in a dystopian world.,63,2016,8.3
+C18,Gladiator,Pelicula,A betrayed Roman general seeks revenge against the corrupt emperor who murdered his family.,155,2000,8.5
+C19,The Office,Serie,A mockumentary on a group of office workers at Dunder Mifflin.,22,2005,8.9
+C20,The Office S1E1,Episodio,Michael Scott tries to impress his employees on the first day of filming.,22,2005,7.9
