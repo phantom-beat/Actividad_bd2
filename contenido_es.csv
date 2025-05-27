@@ -1,0 +1,21 @@
+contenidoId,nombre,tipo,descripcion,duracion,añoEstreno,calificacionPromedio
+C1,Inception,Pelicula,Un ladrón que roba secretos corporativos infiltrándose en los sueños debe plantar una idea en la mente de un CEO.,148,2010,8.8
+C2,Stranger Things,Serie,Un grupo de niños en los años 80 descubre misterios sobrenaturales relacionados con experimentos secretos y una niña extraña.,50,2016,8.7
+C3,Stranger Things S1E1,Episodio,La desaparición de un niño lleva al descubrimiento de una misteriosa niña y un experimento gubernamental siniestro.,47,2016,8.5
+C4,The Matrix,Pelicula,Un hacker descubre una realidad simulada y se une a una rebelión contra las máquinas que la controlan.,136,1999,8.7
+C5,Breaking Bad,Serie,Un profesor de química se convierte en narcotraficante y construye un imperio mientras enfrenta dilemas morales.,45,2008,9.5
+C6,Breaking Bad S1E1,Episodio,"Walter White, un profesor de secundaria, se une a un exalumno para cocinar y vender metanfetamina.",58,2008,9.1
+C7,The Witcher,Serie,"Geralt de Rivia, un cazador de monstruos, enfrenta un mundo donde las personas pueden ser más crueles que las bestias.",60,2019,8.2
+C8,The Witcher S1E1,Episodio,Geralt realiza su primera cacería de monstruos mientras descubre una conspiración más profunda.,65,2019,8.0
+C9,Forrest Gump,Pelicula,La historia de un hombre con bajo coeficiente intelectual que influye involuntariamente en importantes eventos históricos.,142,1994,8.8
+C10,Game of Thrones,Serie,Familias nobles luchan por el Trono de Hierro mientras emerge una amenaza ancestral.,55,2011,9.3
+C11,Game of Thrones S1E1,Episodio,La familia Stark enfrenta intrigas políticas mientras se aproxima el invierno.,62,2011,9.0
+C12,The Shawshank Redemption,Pelicula,"Dos hombres encarcelados forman un vínculo con los años, encontrando consuelo y redención.",142,1994,9.3
+C13,Friends,Serie,Sigue la vida de seis amigos en Nueva York mientras enfrentan el amor y sus carreras.,22,1994,8.9
+C14,Friends S1E1,Episodio,Rachel huye de su boda y conoce al grupo en Central Perk.,23,1994,8.4
+C15,The Dark Knight,Pelicula,"Batman se enfrenta al Joker, un criminal que siembra el caos en Gotham.",152,2008,9.0
+C16,Black Mirror,Serie,Serie antológica que explora el lado oscuro de la tecnología y la naturaleza humana.,60,2011,8.8
+C17,Black Mirror S3E1,Episodio,Una mujer se obsesiona con su puntuación en redes sociales en un mundo distópico.,63,2016,8.3
+C18,Gladiator,Pelicula,Un general romano traicionado busca venganza contra el emperador corrupto que mató a su familia.,155,2000,8.5
+C19,The Office,Serie,Mockumentary sobre un grupo de empleados de la oficina de Dunder Mifflin.,22,2005,8.9
+C20,The Office S1E1,Episodio,Michael Scott intenta impresionar a sus empleados en el primer día de grabación.,22,2005,7.9
